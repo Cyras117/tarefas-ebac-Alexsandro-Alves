@@ -1,0 +1,31 @@
+algoritmo Acordar
+
+inicio
+    // Passo 1: Abrir os olhos
+    escreva("Passo 2: Abrir os olhos")
+
+    // Passo 2: Esticar o corpo
+    escreva("Passo 4: Esticar o corpo")
+
+    // Passo 3: Pegar o celular
+    escreva("Passo 4: Pegar ocelular")
+
+    // Passo 4: Debloquear a tela do celular
+    escreva("Passo 4: Debloquear a tela do celular")
+
+    // Passo 5: Checar a hora
+    escreva("Passo 4: Checar a hora")
+
+    // Passo 6: Levantar da cama
+    escreva("Passo 3: Levantar da cama")
+
+    // Passo 7: Ir ao banheiro
+    escreva("Passo 5: Ir ao banheiro")
+
+    // Passo 8: Vestir-se
+    escreva("Passo 7: Vestir roupas adequadas para o dia")
+
+    // Passo 9: Tomar café da manhã
+    escreva("Passo 8: Preparar e desfrutar de um café da manhã saudável")
+
+fim_algoritmo
